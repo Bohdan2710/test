@@ -966,17 +966,17 @@ body.pc .nav__list li a:hover {
   }
   .main {
     padding: calc(var(--index) * 8) calc(var(--index) * 1);
-    height: auto;
+    height: initial;
   }
   .our-product {
-    height: auto;
+    height: initial;
     padding: calc(var(--index) * 5) calc(var(--index) * 1);
   }
   .swiper-slide {
-    height: auto;
+    height: initial;
   }
   .footer {
-    height: auto;
+    height: initial;
     padding: calc(var(--index) * 7) calc(var(--index) * 1);
   }
 }
