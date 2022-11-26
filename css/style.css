@@ -981,6 +981,7 @@ body.pc .nav__list li a:hover {
   }
   .swiper {
     overflow: initial;
+    height: initial;
   }
 }
 @media (max-width: 420px) {
