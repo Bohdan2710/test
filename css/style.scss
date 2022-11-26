@@ -1140,6 +1140,10 @@ $title-color: #1F2132;
 		padding: calc(var(--index) * 7) calc(var(--index) * 1);
 	}
 
+	.swiper {
+		overflow: initial;
+	}
+
 }
 
 @media (max-width: 420px) {

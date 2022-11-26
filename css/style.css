@@ -979,6 +979,9 @@ body.pc .nav__list li a:hover {
     height: initial;
     padding: calc(var(--index) * 7) calc(var(--index) * 1);
   }
+  .swiper {
+    overflow: initial;
+  }
 }
 @media (max-width: 420px) {
   .our-product__content-product {
